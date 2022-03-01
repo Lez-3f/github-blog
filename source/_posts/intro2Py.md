@@ -1,3 +1,8 @@
+---
+title: intro2Py
+date: 2022-03-01 01:21:59
+tags:
+---
 # **Python基础语法**
 
 ## 基本输入输出
@@ -382,4 +387,5 @@ plt.show()
 numpy中文教程：https://www.numpy.org.cn/article/basics/understanding_numpy.html
 
 matplotlib教程：https://www.runoob.com/w3cnote/matplotlib-tutorial.html
+
 
